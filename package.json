@@ -22,11 +22,11 @@
     "@modelcontextprotocol/server-everything": "*",
     "@modelcontextprotocol/server-gdrive": "*",
     "@modelcontextprotocol/server-postgres": "*",
-    "@modelcontextprotocol/server-puppeteer": "*",
-    "@modelcontextprotocol/server-slack": "*",
+    "@modelcontextprotocol/server-puppeteer": "2025.5.12",
+    "@modelcontextprotocol/server-slack": "2025.4.25",
     "@modelcontextprotocol/server-brave-search": "*",
     "@modelcontextprotocol/server-memory": "*",
-    "@modelcontextprotocol/server-filesystem": "*",
+    "@modelcontextprotocol/server-filesystem": "2025.7.1",
     "@modelcontextprotocol/server-everart": "*",
     "@modelcontextprotocol/server-sequential-thinking": "*"
   }
