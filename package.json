@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@modelcontextprotocol/server-everything": "*",
-    "@modelcontextprotocol/server-gdrive": "*",
+    "@modelcontextprotocol/server-gdrive": "2025.1.14",
     "@modelcontextprotocol/server-postgres": "*",
     "@modelcontextprotocol/server-puppeteer": "*",
     "@modelcontextprotocol/server-slack": "*",
