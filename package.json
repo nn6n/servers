@@ -19,8 +19,8 @@
     "link-all": "npm link --workspaces"
   },
   "dependencies": {
-    "@modelcontextprotocol/server-everything": "*",
-    "@modelcontextprotocol/server-gdrive": "*",
+    "@modelcontextprotocol/server-everything": "2025.4.25",
+    "@modelcontextprotocol/server-gdrive": "2025.1.14",
     "@modelcontextprotocol/server-postgres": "*",
     "@modelcontextprotocol/server-puppeteer": "*",
     "@modelcontextprotocol/server-slack": "*",
